@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: DeliusSwashCaps-Regular
+font link: https://fonts.google.com/specimen/Delius+Swash+Caps
+font author: Natalia Raices
+font author site: https://plus.google.com/101900678527911193079
+
+
+icon designer: Alfredo @ IconsAlfredo.com
+icon designer link: /AlfredoCreates
+        
+{"bg":"transparent","icon-gradient-0":"#8D2CE3","icon-gradient-1":"#F7C6F6","font":"#000000","slogan":"#141414"}
+      
